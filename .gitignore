@@ -1,8 +1,8 @@
 ml_env
+code
+processing
+training
 __pycache__
 .pytest_cache
 CONFIG.txt
 .env
-code
-processing
-training
