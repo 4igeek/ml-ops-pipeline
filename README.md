@@ -1,5 +1,4 @@
-# End-To-End MLOps Pipeline
-An End-To-End MLOps Pipeline Using AWS SageMaker.
+# An End-To-End MLOps Pipeline Using AWS SageMaker
 
 In this project I am going to build the following:
 
