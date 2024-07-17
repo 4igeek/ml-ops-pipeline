@@ -1,4 +1,4 @@
-def submit_pipeline(dataset_location, pipeline_name, steps, pipeline_definition_config, config, role):
+def submit_pipeline(dataset_location, pipeline_name, steps, pipeline_definition_config, config, role, parameters):
     import logging
     # This stops SageMaker from reporting in this cell.
     logging.getLogger('sagemaker.config').disabled = True
@@ -6,7 +6,7 @@ def submit_pipeline(dataset_location, pipeline_name, steps, pipeline_definition_
 
     pipeline = Pipeline(
         name=pipeline_name,
-        parameters=[dataset_location],
+        parameters=parameters,
         steps=steps,
         pipeline_definition_config=pipeline_definition_config,
         sagemaker_session=config["session"],
