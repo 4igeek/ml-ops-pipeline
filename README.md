@@ -10,34 +10,25 @@ Once you have completed all of the steps outlined in my blog post then take a lo
 
 This project was created using Windows 11 and won't work on other operating systems unfortunately. You will also need to install [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install) to get it to work. This is real easy to do, just run `wsl --install` in your terminal and you'll be good to go.
 
-<table>
-    <tr>
-        <td>
-            ### Completed content
-            1. Exploratory data analysis
-            2. Splitting & transforming data
-            3. Training the model
-            4. Custom Docker training container
-            5. Tuning our model
-            6. Evaluating our model
-            7. Registering our model
-            8. Conditional registration of our model
-            9. Serving our model
-            10. Deploying our model
-            11. Deploying from the pipeline
-        </td>
-        <td>
-            ### Future content (under construction)
-            12. ~~Deploying from an event~~
-            13. ~~Building an inference pipeline~~
-            14. ~~Custom inference script~~
-            15. ~~Data quality baseline~~
-            16. ~~Model quality baseline~~
-            17. ~~Data monitoring~~
-            18. ~~Model monitoring~~
-            19. ~~Shadow deployments~~
-        </td>
-    </tr>
-</table>
-
+### Completed content
+1. Exploratory data analysis
+2. Splitting & transforming data
+3. Training the model
+4. Custom Docker training container
+5. Tuning our model
+6. Evaluating our model
+7. Registering our model
+8. Conditional registration of our model
+9. Serving our model
+10. Deploying our model
+11. Deploying from the pipeline
+### Future content (under construction)
+12. ~~Deploying from an event~~
+13. ~~Building an inference pipeline~~
+14. ~~Custom inference script~~
+15. ~~Data quality baseline~~
+16. ~~Model quality baseline~~
+17. ~~Data monitoring~~
+18. ~~Model monitoring~~
+19. ~~Shadow deployments~~
 
