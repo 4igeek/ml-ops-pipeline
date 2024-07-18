@@ -22,9 +22,10 @@ This project was created using Windows 11 and won't work on other operating syst
 9. Serving our model
 10. Deploying our model
 11. Deploying from the pipeline
-### Future content (under construction)
 12. Deploying from an event
 13. Building an inference pipeline
+
+### Future content (under construction)
 14. Custom inference script
 15. Data quality baseline
 16. Model quality baseline
