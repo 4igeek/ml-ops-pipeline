@@ -24,9 +24,9 @@ This project was created using Windows 11. You will also need to install [Window
 11. Deploying from the pipeline
 12. Deploying from an event
 13. Building an inference pipeline
+14. Custom inference script
 
 ### Future content (under construction)
-14. Custom inference script
 15. Data quality baseline
 16. Model quality baseline
 17. Data monitoring
